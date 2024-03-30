@@ -1,0 +1,54 @@
+{
+  "routes": [
+    {
+      "origin": "Chicago",
+      "destination": "Houston",
+      "details": {
+        "route": "I-45 S",
+        "distance": "1,071 mi",
+        "estimated_time": "approx. 16 hours"
+      },
+      "image": "chicago_houston.jpg"
+    },
+    {
+      "origin": "Miami",
+      "destination": "Denver",
+      "details": {
+        "route": "I-70 W",
+        "distance": "1,762 mi",
+        "estimated_time": "approx. 26 hours"
+      },
+      "image": "miami_denver.jpg"
+    },
+    {
+      "origin": "Boston",
+      "destination": "Atlanta",
+      "details": {
+        "route": "I-95 S",
+        "distance": "1,023 mi",
+        "estimated_time": "approx. 15 hours"
+      },
+      "image": "boston_atlanta.jpg"
+    },
+    {
+      "origin": "Las Vegas",
+      "destination": "Salt Lake City",
+      "details": {
+        "route": "I-15 N",
+        "distance": "421 mi",
+        "estimated_time": "approx. 6 hours"
+      },
+      "image": "las_vegas_salt_lake_city.jpg"
+    },
+    {
+      "origin": "Dallas",
+      "destination": "Phoenix",
+      "details": {
+        "route": "I-10 W",
+        "distance": "1,007 mi",
+        "estimated_time": "approx. 15 hours"
+      },
+      "image": "dallas_phoenix.jpg"
+    }
+  ]
+}

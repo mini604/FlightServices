@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "origin": "New York",
+      "destination": "Los Angeles",
+      "price": 300,
+      "seats": 100
+    },
+    {
+      "id": 2,
+      "origin": "London",
+      "destination": "Paris",
+      "price": 200,
+      "seats": 50
+    }
+  ]
+  

@@ -1,0 +1,65 @@
+[
+  {
+    "id": 3,
+    "origin": "London",
+    "destination": "Paris",
+    "date": "2024-03-12",
+    "direct": true,
+    "available_seats": 200,
+    "ticket_fare": 300
+  },
+  {
+    "id": 4,
+    "origin": "Tokyo",
+    "destination": "Seoul",
+    "date": "2024-03-13",
+    "direct": true,
+    "available_seats": 180,
+    "ticket_fare": 350
+  },
+  {
+    "id": 5,
+    "origin": "Sydney",
+    "destination": "Melbourne",
+    "date": "2024-03-14",
+    "direct": true,
+    "available_seats": 120,
+    "ticket_fare": 200
+  },
+  {
+    "id": 6,
+    "origin": "Berlin",
+    "destination": "Rome",
+    "date": "2024-03-15",
+    "direct": false,
+    "available_seats": 150,
+    "ticket_fare": 280
+  },
+  {
+    "id": 7,
+    "origin": "Madrid",
+    "destination": "Barcelona",
+    "date": "2024-03-16",
+    "direct": true,
+    "available_seats": 190,
+    "ticket_fare": 320
+  },
+  {
+    "id": 8,
+    "origin": "Toronto",
+    "destination": "Vancouver",
+    "date": "2024-03-17",
+    "direct": false,
+    "available_seats": 170,
+    "ticket_fare": 370
+  },
+  {
+    "id": 9,
+    "origin": "Dubai",
+    "destination": "Abu Dhabi",
+    "date": "2024-03-18",
+    "direct": true,
+    "available_seats": 160,
+    "ticket_fare": 280
+  }
+]

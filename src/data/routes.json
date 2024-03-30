@@ -1,0 +1,14 @@
+{
+    "origin": "Your Current Location",
+    "destination": "Destination Address",
+    "alternativeRoute": "Follow the scenic route along the coast for a more leisurely drive.",
+    "steps": [
+      "Start at your current location.",
+      "Head east on Main Street.",
+      "Continue straight onto Coastal Highway.",
+      "Enjoy the picturesque views along the coast.",
+      "Turn left onto Sunset Boulevard.",
+      "Continue until you reach your destination."
+    ]
+  }
+  

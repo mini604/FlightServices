@@ -9,7 +9,6 @@ import Footer from './components/Footer';
 import WeatherApp from './Pages/Weather/WeatherApp';
 import Map from './Pages/Direction/Mapcomponent';
 import CountryNewsSearch from './Pages/NewsSearch/CountryNewsSearch';
-import LoginForm from './Pages/Login/Login';
 
 
 const App = () => {
@@ -17,9 +16,8 @@ const App = () => {
     <div>
     <Router>
       <Routes>
-      <Route exact path='/' element={<LoginForm/>}/>
-        <Route path='/' element={<Navigation />} >
-        <Route index path='/flight' element={<Flight />} />
+        <Route exact path='/' element={<Navigation />} >
+        <Route index path='/' element={<Flight />} />
         <Route path='/weatherapp' element={<WeatherApp />} />
         <Route path='/direction' element={<Map />} />
         <Route path='/news' element={<CountryNewsSearch/>}/>
